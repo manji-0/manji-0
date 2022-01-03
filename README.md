@@ -1,5 +1,3 @@
-# Wataru Manji (manji0)
-
 <p align="left"> 
   <a href="https://github.com/manji-0/manji-0/">
     <img src="https://komarev.com/ghpvc/?username=manji-0" alt="manji-0" />
@@ -12,4 +10,8 @@
   </a>
 </p>
 
-Software Engineer/Engineering Manager at LINE Corp. [Personal Site](https://www.manj.io)
+Software Engineer/Engineering Manager at LINE Corp. 
+
+Expertise in MSA monitoring and System Design about metrics/logging.
+
+[Personal Site](https://www.manj.io)
