@@ -1,16 +1,15 @@
-### Hi there 👋
+# Wataru Manji (manji0)
 
-<!--
-**manji-0/manji-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <a href="https://github.com/manji-0/manji-0/">
+    <img src="https://komarev.com/ghpvc/?username=manji-0" alt="manji-0" />
+  </a>
+  <a href="http://twitter.com/_manji0">
+    <img height="20" src="https://img.shields.io/twitter/follow/_manji0?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/manji-0">
+    <img height="20" src="https://img.shields.io/github/followers/manji-0?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer/Engineering Manager at LINE Corp. [Personal Site](https://www.manj.io)
