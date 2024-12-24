@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Software Engineer/Engineering Manager at LINE Corp. 
+Senior Software Engineer at LY Corp. 
 
 Expertise in MSA monitoring and System Design about metrics/logging.
 
